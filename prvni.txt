@@ -1,1 +1,9 @@
+HEAD
 +lojza eeeeeeeee
+
+ahoj 
+
+jak se máš 
+
+minus master 
+ master
